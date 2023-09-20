@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetrofitExa_1</string>
+    <string name="form_name">Ingrese nombre</string>
+    <string name="form_lastname">Ingrese apellido</string>
+    <string name="form_telefono">Ingrese telefono</string>
+    <string name="save_alumn">GUARDAR ALUMNO</string>
+    <string name="txt_grd">REGISTRAR ALUMNO</string>
+</resources>
